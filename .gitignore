@@ -1,0 +1,7 @@
+dist
+.env
+.temp
+deployable
+.DS_Store
+__pycache__
+.venv
